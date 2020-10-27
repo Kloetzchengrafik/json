@@ -1,0 +1,16 @@
+{
+    "test": [
+        {
+            "name": "Herbert",
+            "geldstand": 700
+        },
+        {
+            "name": "Lisa",
+            "geldstand": 10
+        },
+        {
+            "name": "Lisa",
+            "geldstand": 10
+        }
+    ]
+}
